@@ -1,6 +1,5 @@
 # stalkr-GoogleMap-web-app
 
-Link: https://gao00078.edumedia.ca/mad9022/map/index.html
 
 The purpose of this web app is for people to track sightings of a certain crazy politician as he moves around the world. 
 The app uses the following technologies:
